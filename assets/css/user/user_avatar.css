@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #f2f3f5;
+    padding: 15px;
+}
+
+.layui-form {
+    width: 500px;
+}
+
+
+/* 设置卡片主体区域的宽度 */
+
+.layui-card-body {
+    width: 500px;
+}
+
+
+/* 设置按钮行的样式 */
+
+.row2 {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
